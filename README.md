@@ -2,7 +2,7 @@
 - SoraDev-ID
 
 ##### Menu Crack
-<a href="https://ibb.co/hD0Rb3P"><img src="https://i.ibb.co/t8RMgV7/Screenshot-20220614-124750-Pydroid-3.png" alt="Screenshot-20220614-124750-Pydroid-3" border="0"></a>
+<a href="https://ibb.co/Stzn3wW"><img src="https://i.ibb.co/ZB08Mzt/Screenshot-20220619-160401-Termux.png" alt="Screenshot-20220619-160401-Termux" border="0"></a>
 ##### Instalasi
 ```shell
 $ pkg update && pkg upgrade
