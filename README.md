@@ -14,6 +14,6 @@ $ git clone https://github.com/SoraDev-ID/SORADEV
 ##### Run Script
 ```shell
 $ cd SORADEV
-$ python sora.py
+$ python soraa.py
 ```
 
