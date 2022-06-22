@@ -10,8 +10,10 @@
 ```shell
 $ pkg update && pkg upgrade
 $ pkg install python git -y
-$ pip install requests && bs4
-$ pip install futures && rich
+$ pip install requests 
+$ pip install bs4
+$ pip install futures 
+$ pip install rich
 $ git clone https://github.com/SoraDev-ID/SORADEV
 ```
 ##### Run Script
