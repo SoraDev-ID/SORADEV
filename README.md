@@ -23,4 +23,9 @@ $ python soraa.py
 ```
 
 ##### LATEST VERSION. PLEASE TRY YOURSELF 
-##### Unsername:SoraDev
+##### UNSERNAME 🔥🔥
+```shell
+
+SoraDev
+
+```
